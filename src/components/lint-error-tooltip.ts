@@ -1,6 +1,3 @@
-//@ts-check
-"use strict";
-
 import {Vector} from "../utilities/geometry/vector";
 import {LintError} from "../utilities/lint-markdown";
 import {Component} from "./component";

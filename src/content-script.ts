@@ -1,7 +1,3 @@
-// @ts-check
-
-"use strict";
-
 import {LintedMarkdownEditor} from "./components/linted-markdown-editor";
 import {observeSelector} from "./utilities/dom/observe-selector";
 

@@ -1,7 +1,3 @@
-// @ts-check
-
-"use strict";
-
 import {TextareaRange} from "../utilities/dom/textarea-range";
 import {formatList} from "../utilities/format";
 import {lintMarkdown} from "../utilities/lint-markdown";
