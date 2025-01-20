@@ -15,7 +15,7 @@
     "@github/markdownlint-github": "^0.6.3",
     "@webcomponents/custom-elements": "^1.6.0",
     "dom-input-range": "^1.2.0",
-    "markdownlint": "^0.35.0"
+    "markdownlint": "^0.37.4"
   },
   "devDependencies": {
     "@babel/core": "^7.21.8",
